@@ -1,0 +1,6 @@
+{
+  "name": "FinBot - AI Personal Finance Assistant",
+  "description": "An ultra-efficient, empathetic personal finance assistant with active voice mode, real-time dynamic charts, expense categorization, monthly budgeting, and financial calculators.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
