@@ -1,6 +1,6 @@
 # ⚡ FinBot — AI-Powered Personal Finance & BI Assistant
 
-FinBot is an ultra-efficient, dynamic, and interactive AI financial assistant built specifically for Indian users. Operating strictly in **Indian Rupee (₹)** and designed around a modern **Neon-Black UI**, FinBot processes user inputs dynamically without static templates, hardcoded assumptions, or unsolicited advice.
+FinBot is an ultra-efficient, dynamic, and interactive AI financial assistant built specifically for Indian users. Operating strictly in **Indian Rupee (₹)** and designed around a modern **UI**, FinBot processes user inputs dynamically without static templates, hardcoded assumptions, or unsolicited advice.
 
 ---
 
